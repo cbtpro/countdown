@@ -28,3 +28,17 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+```bash
+echo "# countdown" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/cbtpro/countdown.git
+
+git push -u origin master
+```
